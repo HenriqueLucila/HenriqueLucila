@@ -5,15 +5,15 @@ Sou um estudante de Ciência da Computação (6º semestre na USCS), apaixonado 
 ### 👨‍💻 Sobre mim
 - 🏢 Atualmente, atuo como **Engenheiro de Dados**, apoiando as demandas analíticas e a estruturação de dados da empresa.
 - ☁️ Tenho participação ativa na migração de ambientes analíticos para **Databricks**, aplicando a arquitetura Medallion (tabelas *Bronze, Silver e Gold*) e estruturando fluxos de **Data Quality**.
-- ⚙️ Desenvolvo e gerencio pipelines de ETL utilizando **Azure Data Factory** e crio automações de processos utilizando **Python**.
+- ⚙️ Desenvolvo e gerencio pipelines de ETL utilizando **Azure Data Factory** , crio automações de processos utilizando **Python** e atuo diretamente na correção e monitoria em casos de falha nas pipelines.
 - 📚 Além da faculdade, estou aprofundando meus conhecimentos em infraestrutura em nuvem (como o *AWS Academy Cloud Foundations*).
 - 🌍 Possuo proficiência avançada em inglês (nível B2), o que me facilita o consumo de documentações técnicas e a resolução de problemas complexos.
 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Ecossistema:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 **Engenharia de Dados & Cloud:**  
